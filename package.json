@@ -1,0 +1,19 @@
+{
+  "name": "belajar",
+  "version": "1.0.0",
+  "description": "learn how to create nodeJs express from scratch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Merlinda",
+  "license": "ISC",
+  "dependencies": {
+    "console-stamp": "^0.2.6",
+    "express": "^4.16.3",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.38.0",
+    "sequelize-cli": "^4.1.1"
+  }
+}
